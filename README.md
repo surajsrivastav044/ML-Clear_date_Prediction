@@ -6,7 +6,7 @@
 - Get account-level analytics to easily visualize and interpret data - EDA and Feature Engineering.<br>
 - Get a prediction of when the invoice is going to get paid.
 </b><br>
-# Thanks
+<h1> Thanks</h1>
   
   
 
